@@ -1,0 +1,8 @@
+
+Olá {nome},
+
+Este é um e-mail de teste enviado pelo Python usando a API do Gmail!
+
+Obrigado,
+Lucas
+
